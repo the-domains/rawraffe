@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-11T02:32:54.579Z'
-dateModified: '2015-11-11T02:32:40.280Z'
+datePublished: '2015-11-11T05:57:24.185Z'
+dateModified: '2015-11-11T02:32:54.579Z'
 title: EMBROIDERED TYPE
 authors: []
 publisher:
