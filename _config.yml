@@ -1,7 +1,7 @@
 name: rawraffe
 favicon: null
-layout_spectrum: 0.6061217505484819
-typography_spectrum: 0.9038805870804936
+layout_spectrum: 0.50959
+typography_spectrum: 0.74051
 cta:
   domain: null
   bucket: null
@@ -15,7 +15,12 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
+  brandColors:
+    - '#ffffff'
+    - '#241e20'
+    - '#4d4d51'
+    - '#a2a3a4'
+    - '#c7c8c9'
   brandStrength: 0.48024359392002225
   lightness: 0.3795818642247468
   saturation: 0.06957688741385937
